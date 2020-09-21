@@ -1,2 +1,2 @@
 # BridgeLabz_Prac
-Practice Repo Capgemini Training
+Practice RP Capgemini Training
